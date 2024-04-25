@@ -1,19 +1,18 @@
 # Design-Algorithm
 
-Sharif university
+Computer engineering - Dr.Sedighin
 
-computer engineering
+Sharif university - Spring 2021
 
-Dr.sedighin
 
-spring 2021
+## Exrcise
 
-Sara Azarnoush 
+ - 1
+ - 2
+ - 3
+ - 4
 
-## 1
+## Exam
 
-## 2
-
-## 3
-
-## 4
+## Project
+ - 0
