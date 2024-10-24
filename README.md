@@ -15,7 +15,8 @@ Sharif University - Spring 2021
 ### [Project (Different algorithms for the same problem)](https://github.com/saaz742/Design-Algorithm/tree/main/Project/0)
  - [Problem](https://github.com/saaz742/Design-Algorithm/blob/main/Project/0/DS0.pdf)
  - [Code](https://github.com/saaz742/Design-Algorithm/blob/main/Project/0/Main.java)
- - Chart
+ - [Chart 1](https://github.com/saaz742/Design-Algorithm/blob/main/Project/0/0-1.pdf)
+ - [Chart 2](https://github.com/saaz742/Design-Algorithm/blob/main/Project/0/0-2.pdf)
    
 ### [Exrcise](https://github.com/saaz742/Design-Algorithm/tree/main/Exercise)
  - [1](https://github.com/saaz742/Design-Algorithm/tree/main/Exercise/1)
